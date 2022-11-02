@@ -1,0 +1,21 @@
+{
+  "name": "mii-assets",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lightningcss-cli": "^1.16.0",
+    "swc-cli": "^0.1.9"
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap" : ["assets.php"]
+  }
+}
