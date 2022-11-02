@@ -1,5 +1,10 @@
 {
     "name": "levmorozov/mii-assets",
     "type": "library",
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "classmap" : ["assets.php"]
+    }
 }

@@ -11,11 +11,5 @@
   "dependencies": {
     "lightningcss-cli": "^1.16.0",
     "swc-cli": "^0.1.9"
-  },
-  "require": {
-    "php": ">=8.0"
-  },
-  "autoload": {
-    "classmap" : ["assets.php"]
   }
 }
