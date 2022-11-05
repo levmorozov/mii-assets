@@ -1,5 +1,5 @@
 {
-    "name": "levmorozov/mii-assets",
+    "name": "levmv/mii-assets",
     "type": "library",
     "require": {
         "php": ">=8.0"
