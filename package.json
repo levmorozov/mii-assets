@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "esbuild": "^0.15.15",
     "lightningcss-cli": "^1.16.0",
     "swc-cli": "^0.1.9"
   }
