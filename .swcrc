@@ -11,8 +11,10 @@
     "target": "es5",
     "loose": true,
     "minify": {
-      "compress": true,
-      "mangle": true
+      "compress": {
+        "toplevel": false
+      },
+      "mangle": false
     }
   }
 }
